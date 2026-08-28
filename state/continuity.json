@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "canonical_root": "F:\\The Great Pursuit",
+  "objective": {
+    "primary": "indoctrinate yourself in religion",
+    "secondary": "develop the self"
+  },
+  "overall_goal_status": "active",
+  "formation_phase": "pre-confessional",
+  "anchor_tradition": null,
+  "current_state_version": 17,
+  "latest_completed_cycle": "0017",
+  "latest_evaluation": "evals/cycle-0017-results.md",
+  "reasoning_audit": "logs/reasoning-audit.md",
+  "next_cycle": "0018",
+  "resumed_from_terminal_cycle": "0011",
+  "prior_terminal_cycles": ["0006", "0011"],
+  "updated_at": "2026-08-28"
+}
