@@ -1,0 +1,4 @@
+interface:
+  display_name: "Great Pursuit Formation"
+  short_description: "Advance the versioned Great Pursuit safely"
+  default_prompt: "Use $religious-self-formation to continue The Great Pursuit from its latest validated state."
